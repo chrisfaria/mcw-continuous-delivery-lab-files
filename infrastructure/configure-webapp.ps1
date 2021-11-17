@@ -1,6 +1,6 @@
-$studentprefix = "Your 3 letter abbreviation here"
+$studentprefix = "491799"
 $resourcegroupName = "fabmedical-rg-" + $studentprefix
-$cosmosDBName = "fabmedical-cdb-" + $studentprefix
+$cosmosDBName = "fabmedical-cdb-" + $studentprefix + "cf"
 $webappName = "fabmedical-web-" + $studentprefix
 
 # Fetch CosmosDB Mongo connection string
